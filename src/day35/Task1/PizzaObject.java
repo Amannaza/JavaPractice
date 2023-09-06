@@ -1,0 +1,1 @@
+package day35.Task1;public class PizzaObject {    public static void main(String[] args) {        Pizza offer = new Pizza("Medium", 3, 4);        System.out.println(offer);    }}

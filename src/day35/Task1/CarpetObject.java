@@ -1,0 +1,1 @@
+package day35.Task1;public class CarpetObject {    public static void main(String[] args) {        Carpet carpet1 = new Carpet(2.5, 4.5, 35, true);        System.out.println(carpet1);        carpet1.setUnitPrice(7);        carpet1.setWidth(8);        carpet1.setLength(9);        carpet1.setPersian(true);        System.out.println(carpet1);    }}

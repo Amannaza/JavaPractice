@@ -1,0 +1,1 @@
+package day36.cryptoTask;public class Etherium extends CryptoToken{}

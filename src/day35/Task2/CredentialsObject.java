@@ -1,0 +1,1 @@
+package day35.Task2;import java.util.Arrays;public class CredentialsObject {    public static void main(String[] args) {        Credentials user1 = new Credentials("Murgap", "iAa1995.");        System.out.println(user1);    }}

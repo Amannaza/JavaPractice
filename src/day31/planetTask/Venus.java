@@ -1,0 +1,1 @@
+package day31.planetTask;public class Venus extends Planet {}

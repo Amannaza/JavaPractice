@@ -1,0 +1,1 @@
+package day31.planetTask;public class Earth extends Planet{}

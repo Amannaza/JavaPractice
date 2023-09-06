@@ -1,0 +1,1 @@
+package day35.Task1;public class SquareObject {    public static void main(String[] args) {        Square square1 = new Square(4.5);        //square1.side=3.2;  Compile error becouse private class        System.out.println(square1);        square1.setSide(10);        System.out.println(square1.getSide());        System.out.println(square1);    }}
